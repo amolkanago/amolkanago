@@ -42,7 +42,7 @@ I enjoy designing and building modern web applications that combine exceptional 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database & Cloud
