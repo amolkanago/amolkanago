@@ -14,17 +14,18 @@ Building scalable, high-performance web applications with modern technologies.
 
 ## 🚀 About Me
 
-```typescript
-const amol = {
-  role: "Full Stack Developer & Software Architect",
-  location: "India 🇮🇳",
-  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "REST APIs"],
-  databases: ["PostgreSQL", "MongoDB"],
-  cloud: ["AWS", "Docker"],
-  currentlyBuilding: "Scalable SaaS Applications",
-  passion: "Turning ideas into production-ready software"
-};
+```bash
+Name:       Amol Kanago
+Role:       Full Stack Developer & Software Architect
+Location:   India 🇮🇳
+
+Frontend:   React • Next.js • TypeScript • Tailwind CSS
+Backend:    Node.js • Express • REST APIs
+Database:   PostgreSQL • MongoDB
+Cloud:      AWS • Docker
+
+Currently:  Building scalable SaaS applications
+Focus:      System Design • Performance • Clean Architecture
 ```
 
 I enjoy designing and building modern web applications that combine exceptional user experiences with scalable architecture.
