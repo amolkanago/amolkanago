@@ -13,8 +13,6 @@ Full Stack Developer and Software Architect.
 
 ## Current Projects
 - SaaS Applications
-- AI Integrations
-- Cloud Solutions
 
 ## Connect With Me
 - LinkedIn: https://linkedin.com/in/yourprofile
